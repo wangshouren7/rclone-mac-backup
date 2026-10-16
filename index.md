@@ -7,4 +7,5 @@ The owner uses this client with [rclone](https://rclone.org) and [restic](https:
 The client is for the owner only. It is not a public service and other people cannot sign up for it.
 
 - [Privacy policy](privacy.html)
+- [Restore guide (恢复手册)](restore.html)
 - Contact: wangshouren116@gmail.com
