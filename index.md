@@ -1,4 +1,4 @@
-ib# rclone Mac Backup
+# rclone Mac Backup
 
 This page belongs to a personal OAuth client named "Mac Backup rclone".
 
